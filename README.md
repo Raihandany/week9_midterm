@@ -1,3 +1,7 @@
-# week9_midterm
+# week9_midterm_Mobile-Programming
 
-A new Flutter project.
+A Simple login App.
+- Have Splash Screen
+- Have Login Screen
+- Have Register Screen
+- Have Welcome Screen
